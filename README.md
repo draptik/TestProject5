@@ -1,0 +1,3 @@
+# Minimal Verify Example
+
+Useful for IDE tests...
