@@ -5,7 +5,7 @@ namespace TestProject5;
 public class UnitTest1
 {
     [Fact]
-    public Task Test1()
+    public Task Test1_works_since_Verify_version_29_1_0()
     {
         var homer = new Person(1, "Homer changed", "Simpson");
         return Verify(homer);
